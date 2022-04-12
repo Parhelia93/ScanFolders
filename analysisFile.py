@@ -1,3 +1,6 @@
+#Must be ini file, where we can add path main folder and path slave folder(s). We can add list of file extension
+#Script make folder for result, and make txt file with name current date
+
 import os
 from datetime import datetime
 
